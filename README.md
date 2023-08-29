@@ -1,13 +1,22 @@
 # Data-Analysis-projects
 
 **Overview:**
+
 Conducted in-depth analysis of Video Game sales and Superstore sales datasets to analyze actual sales regarding different parameters.
 Used Python in Jupyter Notebook to create thorough analysis and data processing.
 
 A cleaned csv file with processed data is also available.
 
+**Dataset Source:**
+
+https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
+
+https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
+
 **Tableau:**
+
 Created interactive visualization for both the cleaned datasets can be observed from .twbx files. 
+
 A screenshot of those visualizations can be found as follows:
 
 
